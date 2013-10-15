@@ -7,6 +7,16 @@ Sunburst effects with mesh animation (Unity, C#)
 
 [Demo (Vimeo)](https://vimeo.com/76949095)
 
+Usage
+-----
+
+There are four parameters.
+
+- Beam Count - The number of beams (rays).
+- Beam Width - The width of beam.
+- Speed - The speed of animation.
+- Scale Power - The power (exponent) factor of the scaling function.
+
 License
 -------
 
