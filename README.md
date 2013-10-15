@@ -1,6 +1,6 @@
-unity-sunburst-mesh-fx
+unity-sunburst-effects
 ======================
 
-Sunburst effect with mesh animation (Unity, C#)
+Sunburst effects with mesh animation (Unity, C#)
 
-![Screenshot](http://keijiro.github.io/unity-sunburst-fx/Screenshot.png)
+![Screenshot](http://keijiro.github.io/unity-sunburst-effects/Screenshot.png)
