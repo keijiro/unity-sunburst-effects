@@ -3,7 +3,7 @@
         _Color ("Color", Color) = (1, 1, 1, 1)
 	}
 	SubShader {
-		Tags { "Queue"="Transparent" }
+		Tags { "RenderType"="Transparent" "Queue"="Transparent" }
         
         Cull off
 		

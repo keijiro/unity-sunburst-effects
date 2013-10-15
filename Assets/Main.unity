@@ -114,7 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccfd8e6a1aeaf4dfc9563fee5670ee78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  beamCount: 200
+  beamCount: 160
   beamWidth: .0299999993
   speed: 2
   scalePower: 3
