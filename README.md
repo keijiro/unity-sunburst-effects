@@ -17,6 +17,8 @@ There are four parameters.
 - Speed - The speed of animation.
 - Scale Power - The power (exponent) factor of the scaling function.
 
+For a detailed example, see [the test branch](https://github.com/keijiro/unity-sunburst-effects/tree/test)
+
 License
 -------
 
